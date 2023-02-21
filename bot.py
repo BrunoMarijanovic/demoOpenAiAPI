@@ -1,7 +1,7 @@
 import tkinter as tk
 import openai
 
-openai.api_key = "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"
+openai.api_key = "YOUR_KEY"
 
 ventana = tk.Tk()
 ventana.geometry("675x350")
